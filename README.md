@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Alexix+%F0%9F%91%8B;Android+Developer;Java+%26+Kotlin+enthusiast;Jetpack+Compose+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Alexix+%F0%9F%91%8B;Python+Developer+%7C+Automation;Backend+%26+Data+Engineering;Bots%2C+Dashboards+%26+APIs+%F0%9F%A4%96" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -12,22 +12,23 @@
 
 ## 🧑‍💻 Sobre mí
 
-```kotlin
-val alexix = Developer(
-    nombre = "Alexix Orostegui",
-    rol = "Android Developer",
-    stack = listOf("Kotlin", "Jetpack Compose", "Java"),
-    tambien = listOf("HTML", "CSS Responsive"),
-    aprendiendo = "Siempre algo nuevo 🚀"
-)
+```python
+class Alexix:
+    def __init__(self):
+        self.nombre = "Alexix Orostegui"
+        self.rol = "Developer | Automation & Data"
+        self.stack = ["Python", "JavaScript", "SQL"]
+        self.especialidad = ["Bots RPA", "Dashboards", "APIs", "ETL"]
+        self.aprendiendo = ["TypeScript", "Docker", "Cloud", "AI Tooling"]
+        self.objetivo = "Backend + Data Engineering 🚀"
 ```
 
-Soy un desarrollador enfocado en **Android** 📱, construyendo apps modernas con **Kotlin** y **Jetpack Compose**. Tengo bases sólidas en **Java** y experiencia en **desarrollo web** con HTML y CSS responsive. Me apasiona escribir código limpio, aprender constantemente y convertir ideas en aplicaciones funcionales.
+Soy desarrollador enfocado en **automatización y datos** 🤖. Construyo **bots en Python** (asyncio, Selenium, pandas) que automatizan procesos reales en producción, **dashboards interactivos** y pipelines de datos con **MariaDB** y **Power BI**. También desarrollo web con **JavaScript, React y Next.js**. Me apasiona convertir procesos manuales y repetitivos en sistemas que trabajan solos.
 
-- 🔭 Actualmente trabajando en proyectos Android con Jetpack Compose
-- 🌱 Profundizando en arquitecturas modernas y buenas prácticas
-- 💬 Pregúntame sobre **Kotlin, Java o Android Studio**
-- ⚡ Dato curioso: mi mejor código sale con buena música de fondo 🎧
+- 🔭 Actualmente construyo bots de automatización y dashboards operativos en producción
+- 🌱 Profundizando en **Backend, Data Engineering y herramientas de IA**
+- 💬 Pregúntame sobre **Python, automatización, Selenium, scraping o dashboards**
+- ⚡ Dato curioso: si algo se hace más de dos veces a mano, ya estoy escribiendo el bot 🐍
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -37,14 +38,30 @@ Soy un desarrollador enfocado en **Android** 📱, construyendo apps modernas co
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+**Lenguajes y Backend**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=C0765A)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+**Automatización y Datos**
+
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=F2C811)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+
+**Web y Herramientas**
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 
 </div>
 
@@ -84,15 +101,24 @@ Soy un desarrollador enfocado en **Android** 📱, construyendo apps modernas co
 
 <!-- ═══════════════════════ PROYECTOS ═══════════════════════ -->
 
-## 🚀 Proyectos destacados
+## 🚀 Lo que construyo
+
+| Área | Descripción |
+|------|-------------|
+| 🤖 **Bots de automatización** | Sistemas multi-agente en Python (asyncio, Selenium, httpx) que automatizan procesos operativos reales en producción |
+| 📊 **Dashboards y datos** | Dashboards interactivos y pipelines ETL con MariaDB, pandas y Power BI para análisis operativo en tiempo real |
+| 🌐 **Desarrollo web** | Aplicaciones con React y Next.js — plataformas de gestión y proyectos full stack |
+| ⚙️ **Integraciones y APIs** | Consumo y automatización de APIs REST, scraping, workflows con n8n |
+
+### 📂 Repos destacados
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 📱 [**Login-Registration-Flow-in-Jetpack-Compose**](https://github.com/Aleexix/Login-Registration-Flow-in-Jetpack-Compose) | Flujo completo de login y registro construido con Jetpack Compose y UI declarativa moderna |
-| 🤖 [**App1**](https://github.com/Aleexix/App1) | Aplicación Android nativa desarrollada en Kotlin explorando componentes y navegación |
-| 🗓️ [**Cita2902081**](https://github.com/Aleexix/Cita2902081) | Sistema de gestión de citas con lógica de agendamiento y persistencia de datos |
-| 💻 [**Ptech2024**](https://github.com/Aleexix/Ptech2024) | Proyecto tecnológico 2024 con fundamentos de desarrollo y buenas prácticas |
-| 📦 [**Entrega1**](https://github.com/Aleexix/Entrega1) | Primera entrega académica aplicando estructuras y lógica de programación en Java |
+| 💻 [**Ptech2024**](https://github.com/Aleexix/Ptech2024) | Proyecto tecnológico aplicando fundamentos de desarrollo y buenas prácticas |
+| 🗓️ [**Cita2902081**](https://github.com/Aleexix/Cita2902081) | Sistema de gestión de citas con lógica de agendamiento |
+| 📦 [**Entrega1**](https://github.com/Aleexix/Entrega1) | Proyecto académico aplicando estructuras y lógica de programación |
+| 🧪 [**App1**](https://github.com/Aleexix/App1) | Proyecto explorando desarrollo de aplicaciones y componentes |
+| 🔐 [**Login-Registration-Flow-in-Jetpack-Compose**](https://github.com/Aleexix/Login-Registration-Flow-in-Jetpack-Compose) | Exploración de flujos de autenticación y UI declarativa |
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
