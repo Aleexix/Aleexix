@@ -98,7 +98,7 @@ Construyo **bots en Python** (asyncio, Selenium, pandas) que automatizan proceso
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aleexix/Aleexix/output/github-snake-navy.svg" alt="Snake navy comiendo mis contribuciones" width="100%" />
+<img src="https://raw.githubusercontent.com/Aleexix/Aleexix/output/github-snake-navy.svg?v=1" alt="Snake navy comiendo mis contribuciones" width="100%" />
 
 </div>
 
@@ -110,7 +110,7 @@ Construyo **bots en Python** (asyncio, Selenium, pandas) que automatizan proceso
 
 <div align="center">
 
-⚽ Millonarios FC &nbsp;•&nbsp; 🏎️ Fórmula 1 &nbsp;•&nbsp; 🎌 Anime & Manga &nbsp;•&nbsp; 🏍️ Motos &nbsp;•&nbsp; 🎮 Gaming
+⚽ Millonarios FC &nbsp;•&nbsp; 🏎️ Fórmula 1 &nbsp;•&nbsp; 🎌 Anime & Manga &nbsp;•&nbsp;  Carros &nbsp;•&nbsp; 🎮 Gaming
 
 </div>
 
