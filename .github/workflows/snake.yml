@@ -1,26 +1,31 @@
 name: Generate snake animation
 
 on:
+  # Se ejecuta automáticamente todos los días a medianoche UTC (7pm Colombia)
   schedule:
     - cron: "0 0 * * *"
+  # Te permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
+  # Se ejecuta cada vez que haces push a main
   push:
     branches: [main]
 
 permissions:
+  # Permiso para escribir en el repo (crear la rama output)
   contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Paso 1: Genera el SVG del snake con tus contribuciones
       - uses: Platane/snk@v3
         with:
           github_user_name: Aleexix
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-navy.svg?color_snake=#2D6CDF&color_dots=#14355F,#1B4F91,#2D6CDF,#5DA9E9,#8FC7FF
 
+      # Paso 2: Publica el SVG en la rama "output"
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
