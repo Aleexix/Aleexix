@@ -80,7 +80,7 @@ Construyo **bots en Python** (asyncio, Selenium, pandas) que automatizan proceso
 
 <div align="center">
 
-<img src="https://github-readme-stats-mlildiaai-aorostegui2-gmailcoms-projects.vercel.app/api?username=Aleexix&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=5DA9E9&icon_color=2D6CDF&text_color=C9D1D9&rank_icon=github" alt="Stats" height="165" />
+<img src="https://github-readme-stats-mlildiaai-aorostegui2-gmailcoms-projects.vercel.app/api?username=Aleexix&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=5DA9E9&icon_color=2D6CDF&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true" alt="Stats" height="165" />
 
 <img src="https://github-readme-stats-mlildiaai-aorostegui2-gmailcoms-projects.vercel.app/api/top-langs/?username=Aleexix&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=5DA9E9&text_color=C9D1D9" alt="Top Langs" height="165" />
 
