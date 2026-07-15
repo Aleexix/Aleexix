@@ -110,7 +110,7 @@ Construyo **bots en Python** (asyncio, Selenium, pandas) que automatizan proceso
 
 <div align="center">
 
-⚽ Millonarios FC &nbsp;•&nbsp; 🏎️ Fórmula 1 &nbsp;•&nbsp; 🎌 Anime & Manga &nbsp;•&nbsp; 🏍️ Motos &nbsp;•&nbsp; 🎮 Gaming
+💻 Programming &nbsp;•&nbsp; 🏎️ Fórmula 1 &nbsp;•&nbsp; 🎌 Anime & Manga &nbsp;•&nbsp; 🚗 Carros &nbsp;•&nbsp; 🎮 Gaming
 
 </div>
 
